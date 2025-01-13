@@ -46,7 +46,7 @@ Hi! I'm Shreyansh Gangwar, a B.Tech CSE student at MNNIT, with a passion for tec
 
 ## 📂 Featured Projects
 
-### [Smart Class Management System](service-connect-project.vercel.app)
+### [Smart Class Management System](https://github.com/shreyanshgangwar1509/Service_Connect_Project)
 - **Description**: A web application that manages attendance, syllabus, and class schedules efficiently.
 - **Tech Stack**: MERN Stack, NextAuth, Cloudinary, Mongoose, Resend
 - **Features**:
@@ -54,7 +54,7 @@ Hi! I'm Shreyansh Gangwar, a B.Tech CSE student at MNNIT, with a passion for tec
   - Dynamic class scheduling
   - Role-based access for teachers and students
 
-### [AI Product Recommendation System](https://recommendation-model-2lgk.onrender.com/recommendation/6731ce4a3dce6726ec2852c6)
+### [AI Product Recommendation System](https://github.com/shreyanshgangwar1509/Recommendation_model)
 - **Description**: A collaborative filtering-based recommendation model for OLX-like product listings.
 - **Tech Stack**: Python, Flask, Scikit-learn, MongoDB
 - **Achievements**:
