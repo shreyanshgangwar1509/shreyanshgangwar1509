@@ -12,7 +12,7 @@ Hi! I'm Shreyansh Gangwar, a B.Tech CSE student at MNNIT, with a passion for tec
 - 💻 **Currently Working On**:  
   - Smart Class Management Web App  
   - AI-based Product Recommendation System  
-- 🏆 **Achievements**: Contributor to the AI-based recommendation model for Electrominia competition  
+- 🏆 **Achievements**: Team Member in Web Team of Culrav-Avishkar 2024
 - 🌱 **Learning**: Advanced MERN Stack, Collaborative Filtering  
 - 📫 **Contact**: shreyanshgangwar1@gmail.com  
 
@@ -21,26 +21,16 @@ Hi! I'm Shreyansh Gangwar, a B.Tech CSE student at MNNIT, with a passion for tec
 ## 🛠 Skills
 
 ### Languages
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 
 ### UI & Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ---
 
