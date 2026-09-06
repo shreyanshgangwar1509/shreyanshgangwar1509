@@ -32,7 +32,7 @@
 
 ## 🌌 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/ovi054/ovi054/output/coding.gif" alt="coding gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ```yaml
 shreyansh:
@@ -119,7 +119,7 @@ shreyansh:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyanshgangwar1509&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=C084FC" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshgangwar1509&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" />
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshgangwar1509&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=C084FC" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=shreyanshgangwar1509&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=C084FC" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshgangwar1509&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=A78BFA&point=C084FC&color=8B5CF6" />
 
